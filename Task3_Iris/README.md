@@ -12,5 +12,4 @@ K-Nearest Neighbors (KNN)
 
 ## Result
 The model achieved high accuracy (~95%+).
-
 ![Result](result.png)
