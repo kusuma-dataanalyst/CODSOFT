@@ -2,6 +2,7 @@
 
 This project predicts product sales based on advertising expenditure across different platforms.
 
+
 ## 📊 Dataset
 The dataset includes:
 - TV advertising budget
