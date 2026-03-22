@@ -1,25 +1,16 @@
-# Titanic Survival Prediction
+# Iris Flower Classification
 
-This project predicts whether a passenger survived the Titanic disaster using machine learning.
+This project classifies iris flowers into species using machine learning.
 
 ## Tools Used
-Python
-Pandas
-NumPy
-Scikit-Learn
-Matplotlib
-Seaborn
+- Python
+- Pandas
+- Scikit-learn
 
-## Steps Performed
-1. Data loading and exploration
-2. Handling missing values
-3. Encoding categorical variables
-4. Train-test split
-5. Model training using Random Forest
-6. Model evaluation
+## Model
+K-Nearest Neighbors (KNN)
 
 ## Result
-The model achieved approximately 80% accuracy in predicting passenger survival.
+The model achieved high accuracy (~95%+).
 
-## Dataset
-Titanic dataset from Kaggle
+![Result](result.png)
